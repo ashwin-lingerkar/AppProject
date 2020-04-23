@@ -1,1 +1,1 @@
-# AppProject integrated with jenkins CICDs
+# AppProject integrated with jenkins
